@@ -22,7 +22,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture>
-    <img align="right" alt="GIF" height="180px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif?raw=true" />
+    <img align="right" alt="GIF" height="240px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif?raw=true" />
 </picture>
 
 - 👨‍💻 I am currently working on particular projects and collaborations.
