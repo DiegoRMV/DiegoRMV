@@ -1,14 +1,101 @@
-<h1 align="center">Hola 👋, Soy Diego Menchaca</h1>
-<h3 align="center">Me apasiona el frontend developer</h3>
+<h1 align="center">Hi , I'm Diego Menchaca <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
 
-- 💬 Ask me about **HTML,CSS,Javascript y React**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/diego-rubén-menchaca-vera-ba46b9262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego rubén menchaca vera" height="30" width="40" /></a>
-<a href="https://instagram.com/diego menchaca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diego menchaca" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2300FF94&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Programming+Technician;"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<!-- Connect with me -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h3 style="display: inline-block">Connect With Me🤝</h3></summary>
+  </ul>
+</div>
+<p align="center">
+	<a href="mailto:diegormver@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/DiegoRMV"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/diego-rub%C3%A9n-menchaca-vera-ba46b9262?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTBJvGKz2R%2FaY9Z5U5%2Bn1tg%3D%3D"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://portfolio-00-diegormv.netlify.app/"><img src="https://img.shields.io/badge/website-25D366?&logo=About.me&style=plastic&logoColor=white" alt="Website"/></a>
+</p>
 
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture>
+    <img align="right" alt="GIF" height="180px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif?raw=true" />
+</picture>
+
+- 👨‍💻 I am currently working on particular projects and collaborations.
+  You can visit [MY WEBSITE](https://github.com/DiegoRMV).
+- 📚 Constantly learning about Frontend and Backend technologies.
+  this is [MY RESUME](https://drive.google.com/file/d/1MrPC8DfeFP0geAMa0dNusHUalH5K-A5p/view?usp=sharing)
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
+# <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 26px> Tech Stack
+
+### Programming languages:
+
+&emsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/Java-000?&logo=openjdk)
+
+### Frontend development:
+
+&emsp;
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-000?&logo=tailwind-css)
+![Chakra UI](https://img.shields.io/badge/Bootstrap-000?&logo=bootstrap)
+
+### Backend development:
+
+&emsp;
+![Node.js](https://img.shields.io/badge/Node.js-000?&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000?)
+![JWT](https://img.shields.io/badge/json%20web%20tokens-000?&logo=json-web-tokens)
+![Prisma](https://img.shields.io/badge/Prisma-000?&logo=Prisma)
+
+### Misc tools:
+
+&emsp;
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+
+### Service Cloud:
+
+&emsp;
+![Netlify](https://img.shields.io/badge/Netlify-000?&logo=netlify)
+![Vercel](https://img.shields.io/badge/Vercel-000?&logo=vercel)
+
+### Databases:
+
+&emsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
+![Supabase](https://img.shields.io/badge/Supabase-000?&logo=supabase)
+
+### Os:
+
+&emsp;
+![Windows](https://img.shields.io/badge/Windows-000?&logo=windows)
+![Android](https://img.shields.io/badge/Android-000?&logo=android)
+![Linux](https://img.shields.io/badge/Linux-000?&logo=linux)
+![Debian](https://img.shields.io/badge/Debian-000?&logo=debian)
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
