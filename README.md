@@ -19,15 +19,15 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
-## <picture><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture>
     <img align="right" alt="GIF" height="240px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif?raw=true" />
 </picture>
 
-- ##👨‍💻 I am currently working on particular projects and collaborations.
+## - 👨‍💻 I am currently working on particular projects and collaborations.
   You can visit [MY WEBSITE](https://github.com/DiegoRMV).
-- ##📚 Constantly learning about Frontend and Backend technologies.
+## - 📚 Constantly learning about Frontend and Backend technologies.
   this is [MY RESUME](https://drive.google.com/file/d/1MrPC8DfeFP0geAMa0dNusHUalH5K-A5p/view?usp=sharing)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
