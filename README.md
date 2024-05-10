@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Diego Menchaca <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2300FF94&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Programming+Technician;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2300FF94&size=25&center=true&vCenter=true&width=600&height=100&lines=Front+End+Developer;Programming+Technician;"></a>
 </p>
 
 <!-- Connect with me -->
@@ -28,7 +28,7 @@
 #### - 👨‍💻 I am currently working on particular projects and collaborations.
   You can visit [MY WEBSITE](https://github.com/DiegoRMV).
 #### - 📚 Constantly learning about Frontend and Backend technologies.
-  this is [MY RESUME](https://drive.google.com/file/d/1MrPC8DfeFP0geAMa0dNusHUalH5K-A5p/view?usp=sharing)
+  this is [MY RESUME](https://drive.google.com/file/d/1GHWof9x3lJ8GQe51Xt0nFa1Ma9GDGf7E/view?usp=sharing)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
