@@ -26,7 +26,7 @@
 </picture>
 
 #### - 👨‍💻 I am currently working on particular projects and collaborations.
-  You can visit [MY WEBSITE](https://github.com/DiegoRMV).
+  You can visit [MY WEBSITE](https://diegormv-0.netlify.app).
 #### - 📚 Constantly learning about Frontend and Backend technologies.
   this is [MY RESUME](https://drive.google.com/file/d/1GHWof9x3lJ8GQe51Xt0nFa1Ma9GDGf7E/view?usp=sharing)
 
