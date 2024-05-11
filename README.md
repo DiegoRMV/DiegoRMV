@@ -14,7 +14,7 @@
 	<a href="mailto:diegormver@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/DiegoRMV"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/diego-rub%C3%A9n-menchaca-vera-ba46b9262?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTBJvGKz2R%2FaY9Z5U5%2Bn1tg%3D%3D"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://portfolio-00-diegormv.netlify.app/"><img src="https://img.shields.io/badge/website-25D366?&logo=About.me&style=plastic&logoColor=white" alt="Website"/></a>
+	<a href="https://diegormv-0.netlify.app"><img src="https://img.shields.io/badge/website-25D366?&logo=About.me&style=plastic&logoColor=white" alt="Website"/></a>
 </p>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
