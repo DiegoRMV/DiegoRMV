@@ -28,7 +28,7 @@
 #### - 👨‍💻 I am currently working on particular projects and collaborations.
   You can visit [MY WEBSITE](https://diegormv-0.netlify.app).
 #### - 📚 Constantly learning about Frontend and Backend technologies.
-  this is [MY RESUME](https://drive.google.com/file/d/1GHWof9x3lJ8GQe51Xt0nFa1Ma9GDGf7E/view?usp=sharing)
+  this is [MY RESUME](https://drive.google.com/file/d/1vZZGukczfWpHMFf3W1KIcJkPjFFMOA03/view?usp=drive_link)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
